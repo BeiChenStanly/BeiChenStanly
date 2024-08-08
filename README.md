@@ -23,7 +23,11 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,md&theme=light" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/BeiChenStanly"><img src="https://img.shields.io/badge/GitHub-BeiChenStanly-blue?logo=github" /></a>
