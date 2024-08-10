@@ -15,12 +15,18 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=BeiChenStanly&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BeiChenStanly&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeiChenStanly&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,md&theme=light" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -98,11 +104,6 @@ C#                       1 repo              ████░░░░░░░�
 
  Last Updated on 09/08/2024 23:20:16 UTC
 <!--END_SECTION:waka-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/output/github-contribution-grid-snake.svg">
-</picture>
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/BeiChenStanly"><img src="https://img.shields.io/badge/GitHub-BeiChenStanly-blue?logo=github" /></a>
