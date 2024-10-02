@@ -66,13 +66,13 @@ Sunday                   9 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 50 mins        █████████████████████████   100.00 % 
+Other                    2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     1 hr 50 mins        █████████████████████████   100.00 % 
+Edge                     2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonLearn              1 hr 50 mins        █████████████████████████   100.00 % 
+PythonLearn              2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +92,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2024 01:18:54 UTC
+ Last Updated on 02/10/2024 01:12:00 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
