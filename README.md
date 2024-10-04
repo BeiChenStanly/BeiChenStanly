@@ -33,6 +33,8 @@
 
 > 📦 360.2 kB Used in GitHub's Storage 
  > 
+> 🏆 82 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -64,13 +66,13 @@ Sunday                   9 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 4 mins        █████████████████████████   100.00 % 
+Other                    2 hrs 20 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     2 hrs 4 mins        █████████████████████████   100.00 % 
+Edge                     2 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonLearn              2 hrs 4 mins        █████████████████████████   100.00 % 
+PythonLearn              2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +92,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2024 01:12:11 UTC
+ Last Updated on 04/10/2024 01:12:02 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
