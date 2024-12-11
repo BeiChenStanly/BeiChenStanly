@@ -33,6 +33,8 @@
 
 > 📦 360.1 kB Used in GitHub's Storage 
  > 
+> 🏆 56 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -64,14 +66,14 @@ Sunday                   9 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    41 hrs 57 mins      █████████████████████████   100.00 % 
+Other                    43 hrs 46 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     33 hrs 4 mins       ████████████████████░░░░░   78.82 % 
-Chrome                   8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Edge                     36 hrs 17 mins      █████████████████████░░░░   82.89 % 
+Chrome                   7 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
 
 🐱‍💻 Projects: 
-mind-map                 41 hrs 57 mins      █████████████████████████   100.00 % 
+mind-map                 43 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +92,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 01:20:01 UTC
+ Last Updated on 11/12/2024 01:18:50 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
