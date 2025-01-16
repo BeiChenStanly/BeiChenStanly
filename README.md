@@ -66,14 +66,13 @@ Sunday                   10 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               14 mins             ████████████████████████░   96.72 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-JavaScrptLearn           15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -92,7 +91,7 @@ Python                   1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2025 01:11:09 UTC
+ Last Updated on 16/01/2025 01:10:44 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
