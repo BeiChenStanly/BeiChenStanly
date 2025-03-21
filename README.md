@@ -33,6 +33,8 @@
 
 > 📦 359.3 kB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -95,7 +97,7 @@ C#                       1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2025 01:16:17 UTC
+ Last Updated on 21/03/2025 01:17:47 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
