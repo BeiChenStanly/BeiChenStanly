@@ -33,8 +33,6 @@
 
 > 📦 1.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 3 Public Repositories 
@@ -100,7 +98,7 @@ TypeScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2025 01:19:59 UTC
+ Last Updated on 25/04/2025 01:20:42 UTC
 <!--END_SECTION:waka-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
