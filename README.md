@@ -1,14 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello!%&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20To%20BeiChen's%20Space!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+love+programming!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello!%&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20To%20BeiChenStanly's%20Space!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=BeiChenStanly&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=BeiChenStanly&rank_icon=percentile&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=BeiChenStanly&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
@@ -28,80 +24,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 12.2 kB Used in GitHub's Storage 
- > 
-> 🏆 104 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                26 commits          █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-🌆 Daytime                37 commits          ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-🌃 Evening                63 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Wednesday                11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Friday                   37 commits          ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Sunday                   27 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 51 mins        ████████████████░░░░░░░░░   65.21 % 
-SSH Config               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-C++                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-bjsrt                    1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.23 % 
-oursapp_back             49 mins             ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-Cpp                      25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-PythonLearn              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-
 **Timeline**
-
 ![Lines of Code chart](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/assets/bar_graph.png)
 
-
- Last Updated on 15/08/2025 01:27:55 UTC
-<!--END_SECTION:waka-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/BeiChenStanly"><img src="https://img.shields.io/badge/GitHub-BeiChenStanly-blue?logo=github" /></a>
