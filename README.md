@@ -1,24 +1,26 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BeiChenStanly&show_icons=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=BeiChenStanly)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BeiChenStanly&layout=compact)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=BeiChenStanly)
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=BeiChenStanly&show_icons=true"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=BeiChenStanly"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BeiChenStanly&layout=compact"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=BeiChenStanly"/>
 </div>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <div align="center">
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BeiChenStanly&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeiChenStanly&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
 </div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/dist/github-contribution-grid-snake.svg"/>
+</div>
+
+<div align="center">
 <!-- https://github.com/tandpfun/skill-icons -->
 ![Languages](https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,md&theme=light)
 </div>
-
-![Contribution Snake](https://raw.githubusercontent.com/BeiChenStanly/BeiChenStanly/main/dist/github-contribution-grid-snake.svg)
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
