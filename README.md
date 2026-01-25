@@ -1,4 +1,4 @@
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/Pranesh-2005/github-readme-stats-fast -->
 <div align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=BeiChenStanly&show_icons=true"/>
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=BeiChenStanly"/>
