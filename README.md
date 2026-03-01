@@ -23,7 +23,7 @@
 
 ```text
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
