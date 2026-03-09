@@ -15,7 +15,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-113.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -23,8 +23,8 @@
 
 ```text
 🔥 Editors: 
-Visual Studio            5 hrs 44 mins       ██████████████████████░░░   88.73 % 
-VS Code                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+VS Code                  1 hr 28 mins        ███████████████████░░░░░░   77.04 % 
+Visual Studio            26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
 ```
 
 **Timeline**
