@@ -23,8 +23,7 @@
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 28 mins        ███████████████████░░░░░░   77.04 % 
-Visual Studio            26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
