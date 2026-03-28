@@ -1,17 +1,26 @@
-<!-- https://github.com/Pranesh-2005/github-readme-stats-fast -->
-<div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=BeiChenStanly&show_icons=true"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=BeiChenStanly"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BeiChenStanly&layout=compact"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=BeiChenStanly"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BeiChenStanly&repo=Sudoku-Solver"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BeiChenStanly&repo=face_recognition"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BeiChenStanly&repo=tauri_calculator"/>
-</div>
+**Hello I'm BeiChenStanly, a learner forever.**
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=BeiChenStanly&show_icons=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=BeiChenStanly" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BeiChenStanly&layout=compact" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=BeiChenStanly" />
+    </td>
+  </tr>
+</table>
 
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- 贡献图（使用 github-readme-activity-graph） -->
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeiChenStanly&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeiChenStanly&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 <!--START_SECTION:waka-->
