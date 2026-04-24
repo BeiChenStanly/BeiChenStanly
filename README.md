@@ -32,7 +32,7 @@
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
