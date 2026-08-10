@@ -24,7 +24,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2018%20mins-blue?style=flat)
 
@@ -34,15 +34,15 @@
 
 ```text
 🔥 Editors: 
-VS Code                  9 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (9.83%)
+⏱ AI Coding Time: 54 mins (8.43%)
 
-✍️ 109 lines written by AI, 946 lines written by hand (10.33% AI-written)
+✍️ 109 lines written by AI, 1,086 lines written by hand (9.12% AI-written)
 
 🔤 129,272 Input Tokens, 100,104 Output Tokens
 
@@ -53,10 +53,10 @@ VS Code                  9 hrs 16 mins       ███████████�
 Deepseek                 109 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.33% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.12% of written lines came from AI
 📚 Verbose Prompter — average 3,499 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 92.87% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.77% of changed lines were hand-edited
 ```
 
 **Timeline**
