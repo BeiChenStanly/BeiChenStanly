@@ -34,15 +34,15 @@
 
 ```text
 🔥 Editors: 
-VS Code                  11 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (8.51%)
+⏱ AI Coding Time: 58 mins (9.78%)
 
-✍️ 109 lines written by AI, 1,266 lines written by hand (7.93% AI-written)
+✍️ 109 lines written by AI, 1,062 lines written by hand (9.31% AI-written)
 
 🔤 131,428 Input Tokens, 103,537 Output Tokens
 
@@ -53,10 +53,10 @@ VS Code                  11 hrs 29 mins      ███████████�
 Deepseek                 109 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.93% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.31% of written lines came from AI
 📚 Verbose Prompter — average 3,057 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 94.98% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.25% of changed lines were hand-edited
 ```
 
 **Timeline**
