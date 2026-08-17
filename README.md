@@ -34,15 +34,15 @@
 
 ```text
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (14.54%)
+⏱ AI Coding Time: 29 mins (26.77%)
 
-✍️ 0 lines written by AI, 377 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 237 lines written by hand (0.0% AI-written)
 
 🔤 57,380 Input Tokens, 22,162 Output Tokens
 
