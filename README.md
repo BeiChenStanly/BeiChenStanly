@@ -34,7 +34,7 @@
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
