@@ -34,13 +34,30 @@
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 37 mins (94.84%)
+
+✍️ 12 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 35,007 Input Tokens, 17,653 Output Tokens
+
+💵 $3.81 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 11 AI Prompts
+
+Kimi                     12 lines            █████████████████████████   100.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 303 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
 ```
 
 **Timeline**
