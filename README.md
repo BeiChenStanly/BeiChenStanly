@@ -24,9 +24,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132.82%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -34,30 +34,30 @@
 
 ```text
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (94.84%)
+⏱ AI Coding Time: 1 hr 15 mins (97.33%)
 
-✍️ 12 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,004 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,007 Input Tokens, 17,653 Output Tokens
+🔤 320,878 Input Tokens, 337,458 Output Tokens
 
-💵 $3.81 Estimated AI Cost This Week
+💵 $10.38 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 16 AI Sessions, 23 AI Prompts
 
-Kimi                     12 lines            █████████████████████████   100.00 % 
+Kimi                     2,004 lines         █████████████████████████   100.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 303 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 50.0% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,682 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.6% of changed lines were hand-edited
 ```
 
 **Timeline**
