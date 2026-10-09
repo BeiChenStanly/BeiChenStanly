@@ -34,29 +34,29 @@
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (16.93%)
+⏱ AI Coding Time: 51 mins (27.32%)
 
-✍️ 17 lines written by AI, 4,061 lines written by hand (0.42% AI-written)
+✍️ 620 lines written by AI, 4,066 lines written by hand (13.23% AI-written)
 
-🔤 52,592 Input Tokens, 26,243 Output Tokens
+🔤 225,112 Input Tokens, 129,399 Output Tokens
 
-💵 $8.07 Estimated AI Cost This Week
+💵 $63.47 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
-Codex-Vscode             17 lines            █████████████████████████   100.00 % 
+Codex-Vscode             620 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.42% of written lines came from AI
-📚 Verbose Prompter — average 2,412 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.58% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 13.23% of written lines came from AI
+📄 Detailed Prompter — average 637 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 86.8% of changed lines were hand-edited
 ```
 
 **Timeline**
