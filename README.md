@@ -28,29 +28,29 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-134.29%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-143.39%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (92.29%)
+⏱ AI Coding Time: 1 hr 35 mins (100.0%)
 
-✍️ 1,239 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,211 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 447,574 Input Tokens, 174,524 Output Tokens
 
 💵 $5.45 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                      1,241 lines         █████████████████████████   100.00 % 
+GPT                      1,213 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
